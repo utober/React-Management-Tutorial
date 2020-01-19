@@ -4,7 +4,7 @@
 
 ---
 
-## [nodejs](https://nodejs.org) 
+## [nodejs](https://nodejs.org) 환경설정
 
 - nodejs
 - node -v
@@ -17,5 +17,6 @@
 - git init
 - git commit -am "first commit"
 - git remote add origin https://github.com/utober/React-Management-Tutorial.git
-- git push -u origin master
+- git push -u origin master // git push --set-upstream origin master
 
+## Project
