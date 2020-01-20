@@ -31,5 +31,10 @@
 
 - client 폴더 생성 후 파일 모두 이동
 - package.json 만들기 -- 서버와 클라이언트 동시 실행토록 설정 만들기
+- npm install
 - npm install -g nodemon
 - server.js 설정
+
+## REST API 구축하기
+- https://jsonlint.com :: 정상적인 Json data 인지 확인
+- client package.json proxy 설정
