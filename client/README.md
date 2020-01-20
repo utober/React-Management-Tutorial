@@ -38,3 +38,15 @@
 ## REST API 구축하기
 - https://jsonlint.com :: 정상적인 Json data 인지 확인
 - client package.json proxy 설정
+
+## React 라이프사이클
+- constructor()
+- componentWillMount()
+- render()
+- componentDidMount()
+- props or state => shouldComponentUpdate() ==> render()
+
+## AWS 
+
+
+
