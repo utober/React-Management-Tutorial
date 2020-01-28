@@ -124,3 +124,8 @@ SELECT * FROM CUSTOMER;
 -  ALTER TABLE CUSTOMER ADD isDeleted INT;
 -  UPDATE CUSTOMER SET createdDate = NOW();
 -  UPDATE CUSTOMER SET isDeleted = 0
+
+## material UI icons library
+- cd client
+- npm install @material-ui/icons
+
