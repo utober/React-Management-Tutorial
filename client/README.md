@@ -110,7 +110,11 @@ SELECT * FROM CUSTOMER;
 ## mysql Module 설치
 - npm install mysql
 
+## 고객 추가양식(Form) & 이벤트 핸들링
 
+- cd client
+- npm install axios
 
-
-
+## 파일 업로드 요청 처리 및 DB에 데이터 삽입
+- npm install multer
+- /upload :: .gitignore 파일에 추가 (업로드 이미지)
