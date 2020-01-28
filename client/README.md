@@ -118,3 +118,9 @@ SELECT * FROM CUSTOMER;
 ## 파일 업로드 요청 처리 및 DB에 데이터 삽입
 - npm install multer
 - /upload :: .gitignore 파일에 추가 (업로드 이미지)
+
+## DB
+-  ALTER TABLE CUSTOMER ADD createdDate DATETIME;
+-  ALTER TABLE CUSTOMER ADD isDeleted INT;
+-  UPDATE CUSTOMER SET createdDate = NOW();
+-  UPDATE CUSTOMER SET isDeleted = 0
